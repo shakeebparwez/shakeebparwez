@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently studying at **NIT Kurukshetra (Computer Science)**
 
-- 👨‍💻 All of my projects are available at [https://shakeebparwez.netlify.app/](https://shakeebparwez.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://shakeebparwez.netlify.app/](https://shakeebparwez.netlify.app)
 
 - 💬 Ask me about **Movies, Coding and Food**
 
